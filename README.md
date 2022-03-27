@@ -1,2 +1,2 @@
 # python
-Python Öğreniyorum
+I am learning Python.
